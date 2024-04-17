@@ -1,7 +1,7 @@
 ﻿using System.Xml;
 using CheckNumbers;
 
-namespace NumberCounter_Second
+namespace NumberCounter
 {
   internal class Program
   {
